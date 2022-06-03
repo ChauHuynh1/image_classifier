@@ -1,2 +1,2 @@
 # image_classifier
-# This is just
+# This is just for studying
